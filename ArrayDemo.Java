@@ -11,7 +11,7 @@
 		  for(int a : numbers) {
 			  System.out.print(a+", ");
 		  }
-		  System.out.print("is "+sum);
+		  System.out.print("is = "+sum);
 		}
 	  
 	  public static void main(String[] args) {
