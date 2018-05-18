@@ -17,7 +17,7 @@ public class GuessGame {
 		if(reply == a || reply == b || reply == c) {
 			System.out.println("Correct!");
 		} else {
-			System.out.println("Wrong!!\nThe number is: "+a);
+			System.out.println("You Are Wrong!!\nThe number is: "+a);
 		}
 	}
 }
